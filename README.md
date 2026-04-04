@@ -29,3 +29,4 @@ To improve communication for hearing-impaired individuals in emergency situation
 
 ## 👩‍💻 Author
 Kashish Haryani
+Ritika Rani
